@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/koutasatouu/koutasatouu/output/snake.svg" alt="Snake animation"/>
+![snake gif](https://github.com/koutasatouu/koutasatouu/blob/output/github-snake-dark.svg)
 
 ###
 
