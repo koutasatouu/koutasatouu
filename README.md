@@ -37,7 +37,6 @@
   ![snake gif](https://github.com/koutasatouu/koutasatouu/blob/output/github-snake-dark.svg)
 
 </div>
-###
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=tmkhh8k8ebzoeokwhxj1z7zm2&count=3" alt="Spotify recently played"  />
