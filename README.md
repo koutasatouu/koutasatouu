@@ -1,0 +1,104 @@
+<h1 align="center">Hi There!</h1>
+
+
+
+\###
+
+
+
+<img align="right" height="196" src="https://media.tenor.com/haoglshWdrMAAAAM/vergil-devil-may-cry.gif"  />
+
+
+
+\###
+
+
+
+<div align="center">
+
+&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+
+&nbsp; <img width="12" />
+
+&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+
+&nbsp; <img width="12" />
+
+&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+
+&nbsp; <img width="12" />
+
+&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+
+&nbsp; <img width="12" />
+
+&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+
+&nbsp; <img width="12" />
+
+&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
+
+&nbsp; <img width="12" />
+
+&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="50" alt="unrealengine logo"  />
+
+&nbsp; <img width="12" />
+
+&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+
+&nbsp; <img width="12" />
+
+&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+
+&nbsp; <img width="12" />
+
+&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+
+&nbsp; <img width="12" />
+
+&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+
+</div>
+
+
+
+\###
+
+
+
+<div align="center">
+
+&nbsp; <img src="https://img.shields.io/static/v1?message=Discord\&logo=discord\&label=\&color=7289DA\&logoColor=white\&labelColor=\&style=for-the-badge" height="25" alt="discord logo"  />
+
+&nbsp; <img src="https://img.shields.io/static/v1?message=Youtube\&logo=youtube\&label=\&color=FF0000\&logoColor=white\&labelColor=\&style=for-the-badge" height="25" alt="youtube logo"  />
+
+</div>
+
+
+
+\###
+
+
+
+<br clear="both">
+
+
+
+<img src="https://raw.githubusercontent.com/koutasatouu/koutasatouu/output/snake.svg" alt="Snake animation" />
+
+
+
+\###
+
+
+
+<div align="center">
+
+&nbsp; <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+
+</div>
+
+
+
+\###
+
