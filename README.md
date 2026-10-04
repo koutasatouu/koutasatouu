@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/haoglshWdrMAAAAM/vergil-devil-may-cry.gif"  />
+<div class="tenor-gif-embed" data-postid="5855153814793276482" data-share-method="host" data-aspect-ratio="1.13991" data-width="100%"><a href="https://tenor.com/view/steel-ball-run-sbr-johnny-joestar-sbr-king-von-king-von-gif-5855153814793276482">Steel Ball Run Sbr GIF</a>from <a href="https://tenor.com/search/steel+ball+run-gifs">Steel Ball Run GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
